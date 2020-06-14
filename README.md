@@ -5,4 +5,4 @@ Files to use for LFI-Fuzzing
 
 ## Sources (among  others)
 
-..* https://guide.offsecnewbie.com/web#useful-lfi-list
+* https://guide.offsecnewbie.com/web#useful-lfi-list
